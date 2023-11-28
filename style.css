@@ -1,0 +1,20 @@
+
+
+.button {
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.button:hover {
+    background-color: rgb(205, 243, 255);
+}
+
+.counter-widget {
+    border: 1px solid gray;
+    width: 200px;
+    padding: 10px;
+}
